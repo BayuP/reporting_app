@@ -1,6 +1,7 @@
 # DB Schema
 
-<img width="725" alt="db_schema" src="https://github.com/user-attachments/assets/07428623-ed9b-43e3-811d-c56be646b596" />
+
+![db_schema](https://github.com/user-attachments/assets/c139d2fc-615e-4223-a2af-e3181b67183c)
 
 
 # Database Schema Documentation
@@ -16,7 +17,7 @@
 | password | varchar | |
 | email | varchar | |
 | role | varchar | |
-| categor | varchar | |
+| category | varchar | |
 | company_id | uuid | |
 
 ### reports
